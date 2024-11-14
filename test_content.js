@@ -9,3 +9,12 @@ conf_data.startInterviewMessage += ` ${language_json?.lance_warning["and Please 
     conf_data.notFinishedMessage = t(`screens.AiScreen.text.unfinished_interview_warning`) + t(`screens.AiScreen.text.finish_interview_warning`);
     // `Your Interview to discuss your focus areas and areas of improvement is not completed. I still have some questions for you.\n
     // Are you sure you still want to finish the interview?`;
+
+
+    conf_data.notFinishedthalaforMessage = t(`screens.AiScreen.text.unfinished_interview_warning`) + t(`screens.AiScreen.text.finish_interview_warning`);
+    // `Your Interview to discuss your focus areas and areas of improvement is not completed. I still have some questions for you.\n
+    // Are you sure you still want to finish the interview?`;
+
+    conf_data.notFinishedthakaharaMessage = t(`screens.AiScreen.text.unfinished_interview_warning`) + t(`screens.AiScreen.text.finish_interview_warning`);
+    // `Your Interview to discuss your focus areas and areas of improvement is not completed. I still have some questions for you.\n
+    // Are you sure you still want to finish the interview?`;
